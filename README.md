@@ -12,7 +12,7 @@ The analysis os the election show that:
 
 Using Python and reading in the CSV election data set we determined out of the 369,711 votes some patterns and analysis.
 
-W
+
 ### Resources
 
 - Data Source: election_results.csv
